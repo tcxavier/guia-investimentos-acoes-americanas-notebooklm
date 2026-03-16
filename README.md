@@ -1,4 +1,6 @@
 # guia-investimentos-acoes-americanas-notebooklm
+Acesse o caderno temático desenvolvido no NotbookLM:
+https://notebooklm.google.com/notebook/28e7915a-cbbd-41bc-98ff-6cc91e9675f1
 # Miniguia de Investimentos em Ações Americanas com NotebookLM ##
 Contexto e Objetivos Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa. O tema escolhido foi investimentos em ações americanas, buscando compreender os fundamentos do mercado financeiro dos Estados Unidos, seus principais índices, riscos e estratégias para investidores iniciantes.
 Objetivos: - Entender como funciona o mercado de ações americano - Aprender conceitos fundamentais de investimento - Utilizar IA para organizar conhecimento - Criar um material de estudo reutilizável.
